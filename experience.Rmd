@@ -1,0 +1,36 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Michelle's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+Link to useful things
+[google](https://www.google.com/) and [P8105]()
+
+Make an extra page and like to that. Here's my [about](about.html)page.
+
+My cat's name is Ted. He likes to be on the Internet.
+
+<img.src="images/ted.jpg" style="width:75%>
+
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<you@youremail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/<MinxiuShi>/
+output:
+  html_document:
+    theme: cerulean
