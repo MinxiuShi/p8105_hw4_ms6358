@@ -6,7 +6,7 @@ navbar:
     - text: "experience"
       href: experience.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<ms6358@cumc.columibia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/<MinxiuShi>/
 output:

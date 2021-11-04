@@ -13,21 +13,5 @@ output:
 
 Here you can Know me better! Click this and go to my [experience](about.html)page.
 
-My cat's name is Ted. He likes to be on the Internet.
 
-<img.src="images/ted.jpg" style="width:75%>
 
-name: "My internet!"
-output_dir: "."
-navbar:
-  title: "Home"
-  right:
-    - text: "experience"
-      href: experience.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/<MinxiuShi>/
-output:
-  html_document:
-    theme: cerulean
