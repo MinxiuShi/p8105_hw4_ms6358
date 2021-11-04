@@ -11,7 +11,8 @@ output:
 
 ![](https://i.makeagif.com/media/9-05-2015/3jhjWn.gif)
 
-Here you can Know me better! Click this and go to my [experience](about.html)page.
+
+At this website you are gonna Know me better! Click this and go to my [experience](experience.html) page.
 
 
 
