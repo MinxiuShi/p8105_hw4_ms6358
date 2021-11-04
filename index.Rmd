@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "ms6358 website"
 output: 
   html_document:
     toc: true
@@ -7,26 +7,23 @@ output:
     theme: cerulean
 ---
 
-# This is Michelle's awesome website
+# Welcome to  my brilliant website!
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](https://i.makeagif.com/media/9-05-2015/3jhjWn.gif)
 
-Link to useful things
-[google](https://www.google.com/) and [P8105]()
-
-Make an extra page and like to that. Here's my [about](about.html)page.
+Here you can Know me better! Click this and go to my [experience](about.html)page.
 
 My cat's name is Ted. He likes to be on the Internet.
 
 <img.src="images/ted.jpg" style="width:75%>
 
-name: "Yay internet!"
+name: "My internet!"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+    - text: "experience"
+      href: experience.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
